@@ -40,7 +40,9 @@ namespace EditorTextoHtml
                             )
                      );
                     Console.Write(" ");
-                }else{
+                }
+                else
+                {
                     Console.ForegroundColor = ConsoleColor.Black;
                     Console.Write(palavras[i]);
                     Console.Write(" ");
