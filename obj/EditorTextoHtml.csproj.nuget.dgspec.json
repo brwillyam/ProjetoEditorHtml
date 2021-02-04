@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\EditorTextoHtml\\EditorTextoHtml.csproj": {}
+    "C:\\Dev\\EditorTextoHtml\\EditorTextoHtml.csproj": {}
   },
   "projects": {
-    "C:\\dev\\EditorTextoHtml\\EditorTextoHtml.csproj": {
+    "C:\\Dev\\EditorTextoHtml\\EditorTextoHtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EditorTextoHtml\\EditorTextoHtml.csproj",
+        "projectUniqueName": "C:\\Dev\\EditorTextoHtml\\EditorTextoHtml.csproj",
         "projectName": "EditorTextoHtml",
-        "projectPath": "C:\\dev\\EditorTextoHtml\\EditorTextoHtml.csproj",
+        "projectPath": "C:\\Dev\\EditorTextoHtml\\EditorTextoHtml.csproj",
         "packagesPath": "C:\\Users\\brwil\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EditorTextoHtml\\obj\\",
+        "outputPath": "C:\\Dev\\EditorTextoHtml\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brwil\\AppData\\Roaming\\NuGet\\NuGet.Config",

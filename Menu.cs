@@ -75,7 +75,7 @@ namespace EditorTextoHtml
             switch (opcao)
             {
                 case 1: Editor.Show();break;
-                case 2: Visualizador.Show("kkkkkkk so da erro essa porra ");break;
+                case 2: Abrir.abrir();break;
                 case 0:{
                     Console.Clear();
                     Environment.Exit(0); 
