@@ -18,7 +18,6 @@ namespace EditorTextoHtml
                 Console.WriteLine(texto);
 
             }
-            Console.ReadLine();
             Editor.Comecar();
 
         }        
