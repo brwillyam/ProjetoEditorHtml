@@ -23,19 +23,19 @@ namespace EditorTextoHtml
         public static void Replace(string arquivo)
         {
             var strong = new Regex(@"<\s*strong[^>]*>(.*?)<\s*/\s*strong>");
-            var palavras = arquivo.Split(' ');
+            var words = arquivo.Split(' ');
 
-            for(var i = 0; i < palavras.Length; i++)
+            for(var i = 0; i < words.Length; i++)
             {
-                if (strong.IsMatch(palavras[i]))
+                if (strong.IsMatch(words[i]))
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write(
-                        palavras[i].Substring(                    
-                            palavras[i].IndexOf('>') + 1,
+                        words[i].Substring(                    
+                            words[i].IndexOf('>') + 1,
                                 ( 
-                                   (palavras[i].LastIndexOf('<') - 1) -
-                                    palavras[i].IndexOf('>')
+                                   (words[i].LastIndexOf('<') - 1) -
+                                    words[i].IndexOf('>')
                                    )
                             )
                      );
@@ -44,7 +44,7 @@ namespace EditorTextoHtml
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.Black;
-                    Console.Write(palavras[i]);
+                    Console.Write(words[i]);
                     Console.Write(" ");
                 }       
             }

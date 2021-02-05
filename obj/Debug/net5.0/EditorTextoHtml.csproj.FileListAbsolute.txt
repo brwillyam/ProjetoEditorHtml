@@ -1,3 +1,8 @@
+C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.csprojAssemblyReference.cache
+C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.AssemblyInfoInputs.cache
+C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.AssemblyInfo.cs
+C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.csproj.CoreCompileInputs.cache
 C:\Dev\EditorTextoHtml\bin\Debug\net5.0\EditorTextoHtml.exe
 C:\Dev\EditorTextoHtml\bin\Debug\net5.0\EditorTextoHtml.deps.json
 C:\Dev\EditorTextoHtml\bin\Debug\net5.0\EditorTextoHtml.runtimeconfig.json
@@ -5,11 +10,6 @@ C:\Dev\EditorTextoHtml\bin\Debug\net5.0\EditorTextoHtml.runtimeconfig.dev.json
 C:\Dev\EditorTextoHtml\bin\Debug\net5.0\EditorTextoHtml.dll
 C:\Dev\EditorTextoHtml\bin\Debug\net5.0\ref\EditorTextoHtml.dll
 C:\Dev\EditorTextoHtml\bin\Debug\net5.0\EditorTextoHtml.pdb
-C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.csprojAssemblyReference.cache
-C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.AssemblyInfoInputs.cache
-C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.AssemblyInfo.cs
-C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.csproj.CoreCompileInputs.cache
 C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.dll
 C:\Dev\EditorTextoHtml\obj\Debug\net5.0\ref\EditorTextoHtml.dll
 C:\Dev\EditorTextoHtml\obj\Debug\net5.0\EditorTextoHtml.pdb

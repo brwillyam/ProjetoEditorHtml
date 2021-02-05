@@ -13,13 +13,13 @@ namespace EditorTextoHtml
            Console.Clear();
            Console.WriteLine("MODO EDITOR");
            Console.WriteLine("-----------");
-           Comecar();
+           Comecar("");
 
        }
 
-       public static void Comecar()
+       public static void Comecar(string texto)
        {
-           var arquivo ="";
+           var arquivo = texto;
             do
              {
                arquivo += (Console.ReadLine());
@@ -44,11 +44,12 @@ namespace EditorTextoHtml
             Console.Clear();
             Console.WriteLine("Qual o caminho para salvar o arquivo?");
             var caminho = Console.ReadLine();
+            File.WriteAllText(caminho,arquivo);
 
-            using var save = new StreamWriter(caminho);
-            {
-                save.Write(arquivo);
-            }
+            // using(var save = new StreamWriter(caminho))
+            // {
+            //     save.Write(arquivo);
+            // }
             Console.WriteLine($"Arquivo {caminho} salvo com sucesso!");
             Console.ReadLine();
         }
